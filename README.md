@@ -19,7 +19,7 @@
 - Скачать с GitHub репозитория файл main.py в заранее подготовленное место
 - Перейти в PowerShell(Windows)/Terminall(Linux/MacOs)
 - Командой `cd path` , где path - абсолютный путь до файла main.py
-- Запустить скрипт командой `python3 main.py`
+- Запустить скрипт командой `python main.py`
 
 ## Работа со скриптом
 
